@@ -16,7 +16,7 @@ Coding, hacking, and exploring technology are my passions,</br> and this is my G
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=poxel69&show_icons=true&theme=catppuccin_mocha" alt="My Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PoXel69&show_icons=true&theme=catppuccin_mocha" alt="My Github Stats" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Coding, hacking, and exploring technology are my passions,</br> and this is my G
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poxel69&show_icons=true&layout=compact&theme=catppuccin_mocha" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PoXel69&show_icons=true&layout=compact&theme=catppuccin_mocha" alt="Top Languages" />
   </a>
 </p>
 
