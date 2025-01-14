@@ -48,7 +48,7 @@ Coding, hacking, and exploring technology are my passions,</br> and this is my G
 </div>
 <br>
 
-### Tools & Frameworks
+### Tools
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=neovim,arch,linux,git,github,idea" alt="Tool Skills" />
