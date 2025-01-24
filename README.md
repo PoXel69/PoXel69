@@ -35,7 +35,7 @@ Coding, hacking, and exploring technology are my passions,</br> and this is my G
 ### Programming Languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,go,lua,kotlin,bash" alt="Programming Skills" />
+    <img src="https://skillicons.dev/icons?i=java,c,python,lua,bash" alt="Programming Skills" />
   </a>
 </div>
 <br>
@@ -43,7 +43,7 @@ Coding, hacking, and exploring technology are my passions,</br> and this is my G
 ### Web Development
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts" alt="Web Development Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Development Skills" />
   </a>
 </div>
 <br>
