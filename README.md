@@ -35,7 +35,7 @@ Coding, hacking, and exploring technology are my passions,</br> and this is my G
 ### Programming Languages
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,lua,bash" alt="Programming Skills" />
+    <img src="https://skillicons.dev/icons?i=java,c,lua,bash" alt="Programming Skills" />
   </a>
 </div>
 <br>
